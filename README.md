@@ -61,21 +61,21 @@ Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at
 - From August 1994 to March 1998, studied at the Saratov Law Institute, earning a higher legal education with a specialization in "Jurisprudence," specializing as "lawyer, forensic expert" (diploma ABC No. 0490344 dated July 28, 1998, registration number 1950).
 - In March-April 2005, obtained permission for independent computer expertise (certificate No. 000595 dated April 19, 2005, issued by the Saratov Law Institute, registration number No. 665).
 - In June 2011, received higher education in "Traffic Organization and Safety," qualifying as "Engineer for organization and management in transport" (diploma ВСГ No. 5117339 dated June 30, 2011, registration number 614).
-- In June 2015, graduated from the Federal State Autonomous Educational Institution of Higher Education "Russian University of Friendship of Peoples," earning a bachelor's degree in "Applied Informatics" (registration number 2439/248ПИОЗ).
+- In June 2015, graduated from the Federal State Autonomous Educational Institution of Higher Education "Russian University of Drujby Narodov," earning a bachelor's degree in "Applied Information Technologies" (registration number 2439/248ПИОЗ).
 
 ## Professional Skills and Knowledge:
-- **Forensic Specializations:**
+- **In Forensic Specializations:**
     - Forensic automotive examination;
     - Forensic examination of video and audio recordings;
     - Forensic examination of radio-electronic, electrical, and electromechanical devices;
     - Forensic computer-technical examination.
-- ### Specialization "Software Developer for Autonomous Unmanned Aerial Vehicles":**
-    - #### Structure, operation principles, and application issues of UAVs;
-    - #### Development of mathematical flight models for UAVs;
-    - #### Creation of UAV control systems;
+- ### In Specialization "Software Developer for Autonomous Unmanned Flying Drones":
+    - #### Structure, operation principles, and application issues of AUFDs;
+    - #### Development of mathematical flight models for AUFDs;
+    - #### Creation of AUFD control systems;
     - #### Working with simulation modeling systems (ROS, Gazebo);
     - #### Measurement error filtering and sensor integration;
-    - #### Development of UAV navigation systems using technical vision;
+    - #### Development of AUFD navigation systems using technical vision;
     - #### Working with distance measurement systems and environmental mapping;
     - #### Route planning system development;
     - #### Group flight control system development.
@@ -97,5 +97,5 @@ Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at
 - From November 13, 2023 to May 31, 2024 attended training at LLC "Information and Communication Technologies Plus" specializing as a “Judicial Expert,” specialization: “Judicial Examination of Video and Audio Recordings” (professional retraining diploma No.642421548594 dated May31 ,2024; registration number:2024/05/135);
 - From November20 ,2023 to June28 ,2024 attended training at LLC "Information and Communication Technologies Plus" specializing as a “Judicial Expert,” specialization: “Judicial Examination of Radio-Electronic ,Electrical ,Electromechanical Devices” (professional retraining diploma No.642422169677 dated June28 ,2024; registration number:2024/06/153);
 - From December1 ,2023 to July31 ,2024 attended training at LLC "Information and Communication Technologies Plus" specializing as a “Specialist in Judicial Computer Technical Expertise,” specialization: “Judicial Computer Technical Expertise” (professional retraining diploma No.642422169849 dated July31 ,2024; registration number:2024/07/162);
-- ### Currently undergoing training at Skillbox online university for the profession “Software Developer for Autonomous Unmanned Aerial Vehicles.”
+- ### Currently undergoing training at Skillbox online university for the profession “Software Developer for Autonomous Unmanned Flying Drones”
 
