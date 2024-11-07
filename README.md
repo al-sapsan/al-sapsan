@@ -1,4 +1,4 @@
-# СОКОЛОВ ОЛЕГ ВАДИМОВИЧ  
+# СОКОЛОВ ОЛЕГ  
 
 ### электронная почта: 
 	- al.sapsan@mail.ru
@@ -55,13 +55,13 @@ ___
 - al.sapsan@mail.ru
 
 ## Brief Biography:
-Born on March 26, 1977, in Sochi. From September 1984 to June 1994, he studied at Secondary School No. 59 in the Adler District of Sochi. From August 1994 to March 1998, he attended the Saratov Law Institute. From March 1998 to February 2013, he worked in the forensic expert division in Sochi, progressing from an expert to the head of the department. Between 2004 and 2006, alongside his main job, he served as a lecturer in "Forensic Science" at the Black Sea Humanitarian Academy (Sochi). From February 2013 to October 10, 2018, he worked as a senior expert in the Department of Special Judicial Expertise for the North Caucasus and Southern Federal Districts. From 2018 to 2024, he operated as a private judicial expert (Individual Entrepreneur Sokolov Oleg Vadimovich OGRNIP 319237500079713).
+Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at Secondary School No. 59 in the Adler District of Sochi. From August 1994 to March 1998, I attended the Saratov Law Institute. From March 1998 to February 2013, I worked in the forensic expert division in Sochi, progressing from an expert to the head of the department. Between 2004 and 2006, alongside I served as a lecturer in "Forensic Science" at the Black Sea Humanitarian Academy (Sochi). From February 2013 to October 10, 2018, I worked as a senior expert in the Department of Special Judicial Expertise for the North Caucasus and Southern Federal Districts. From 2018 to 2024, I worked as a private judicial expert.
 
 ## Education:
 - From August 1994 to March 1998, studied at the Saratov Law Institute, earning a higher legal education with a specialization in "Jurisprudence," specializing as "lawyer, forensic expert" (diploma ABC No. 0490344 dated July 28, 1998, registration number 1950).
 - In March-April 2005, obtained permission for independent computer expertise (certificate No. 000595 dated April 19, 2005, issued by the Saratov Law Institute, registration number No. 665).
-- In June 2011, received higher education in "Traffic Organization and Safety," qualifying as "engineer for organization and management in transport" (diploma VSG No. 5117339 dated June 30, 2011, registration number 614).
-- In June 2015, graduated from the Federal State Autonomous Educational Institution of Higher Education "Russian University of Friendship of Peoples," earning a bachelor's degree in "Applied Informatics" (registration number 2439/248PIOZ).
+- In June 2011, received higher education in "Traffic Organization and Safety," qualifying as "Engineer for organization and management in transport" (diploma ВСГ No. 5117339 dated June 30, 2011, registration number 614).
+- In June 2015, graduated from the Federal State Autonomous Educational Institution of Higher Education "Russian University of Friendship of Peoples," earning a bachelor's degree in "Applied Informatics" (registration number 2439/248ПИОЗ).
 
 ## Professional Skills and Knowledge:
 - **Forensic Specializations:**
