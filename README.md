@@ -45,8 +45,7 @@
     - 13.3. «Исследование следов на транспортных средствах и месте дорожно-транспортного происшествия (транспортно-трасологическая диагностика)» ([сертификат № 2021/12-688 от 20.12.2021 года](https://github.com/al-sapsan/al-sapsan/blob/documents/Documents/auto_video_certificate.jpeg));  
     - 25.1. «Исследование радиоэлектронных, электротехнических, электромеханических устройств бытового назначения» ([сертификат № 2023/02-742 от 22.02.2023 года](https://github.com/al-sapsan/al-sapsan/blob/documents/Documents/radio-electronic_certificate.jpeg)).
   - проходил обучение в ООО «ACE Консалтинг» по темам: «Жесткие диски: проблематика, анализ и обзор методик восстановления» (с 14.07.2014 по 16.07.2014) и «Передовые технологии восстановления данных с SSD и других накопителей на основе NAND Flash памяти (с 17.07.2014 по 19.07.2014);
-  - с 01.07.2013 по 19.07.2013 проходил стажировки по темам: «Проведение экспертно-криминалистических исследований массивов цифровой информации с использованием информационно-аналитической системы IBM i2» (свидетельство № 246/3-00006); «Особенности исследования цифровой информации» (с 24.04.2014 по 28.04.2014, свидетельство № 246/3-00123); «Адреса базовых станций и их определение: основные понятия, приемы и методы. Особенности изучения детализаций по абонентским номерам и базовым станциям» (с 29.04.2014 по 30.04.2014, свидетельство № 246/3-00148);
-  - в 2013 году проходил стажировки и курсы повышения квалификации по специальностям: «Фототехническая экспертиза», «Фоноскопическая экспертиза», «Видеотехническая экспертиза».
+  - с 01.07.2013 по 19.07.2013 проходил стажировки по темам: «Проведение экспертно-криминалистических исследований массивов цифровой информации с использованием информационно-аналитической системы IBM i2» (свидетельство № 246/3-00006); «Особенности исследования цифровой информации» (с 24.04.2014 по 28.04.2014, свидетельство № 246/3-00123); «Адреса базовых станций и их определение: основные понятия, приемы и методы. Особенности изучения детализаций по абонентским номерам и базовым станциям» (с 29.04.2014 по 30.04.2014, свидетельство № 246/3-00148).
 ___
 ___
 # SOKOLOV OLEG
@@ -95,9 +94,8 @@ Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at
     - **13.1** "Investigation of circumstances surrounding road traffic accidents" (certificate No. 2021/12-688 dated December 20, 2021);
     - **13.3** "Investigation of traces on vehicles and at road traffic accident sites (transport-trace diagnostics)" (certificate No. 2021/12-688 dated December 20, 2021);
     - **25.1** "Investigation of radio-electronic, electrical and electromechanical household devices" (certificate No. 2023/02-742 dated February 22, 2023).
-- Completed training at ACE Consulting LLC on: "Hard Drives: Issues, Analysis and Review of Recovery Techniques" (July 14–16, 2014) and "Advanced Data Recovery Technologies from SSDs and Other NAND Flash Memory-Based Storage Devices" (July 17–19, 2014)
+- Completed training at ACE Consulting LLC on: "Hard Drives: Issues, Analysis and Review of Recovery Techniques" (July 14–16, 2014) and "Advanced Data Recovery Technologies from SSDs and Other NAND Flash Memory-Based Storage Devices" (July 17–19, 2014);
 - From July 1 to July 19, 2013, undertook internships on: "Conducting forensic examinations of digital information arrays using IBM i2 information-analytical system" (certificate No. 246/3-00006); "Features of digital information research" (April 24–28, 2014, certificate No. 246/3-00123); "Base station addresses and their determination: basic concepts, techniques and methods. Features of studying details by subscriber numbers and base stations" (April 29–30, 2014, certificate No. 246/3-00148).
-- In 2013, completed internships and advanced training courses in: "Phototechnical Expertise," "Phonoscopic Expertise," "Videotechnical Expertise".
 
 
 
