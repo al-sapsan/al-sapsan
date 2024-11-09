@@ -1,5 +1,6 @@
-
+![git-header-icon](https://github.com/user-attachments/assets/31b9eb68-6404-4720-a7fc-06cc6b1cf8b7)
 ### Ещё немного обо мне:
+
 
 ```python
 class DroneSoftwareDeveloper:
