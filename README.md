@@ -1,8 +1,5 @@
 # СОКОЛОВ ОЛЕГ  
 
-### электронная почта: 
-	- al.sapsan@mail.ru
-
 ## Краткая автобиография: 
 Родился 26.03.1977 года в г. Сочи. С сентября 1984 по июнь 1994 года учился в средней школе № 59 Адлерского района г. Сочи. С августа 1994 по март 1998 год учился в Саратовском юридическом институте. С марта 1998 года по февраль 2013 работал в судебно-экспертном подразделении по городу Сочи, где прошел путь от эксперта до руководителя отдела. С 2004 по 2006 годы наряду с основной работой совмещал должность преподавателя «Криминалистики» в Черноморской гуманитарной академии (г. Сочи). С февраля 2013 по 10.10.2018 работал в должности старшего эксперта отдела специальных судебных экспертиз по Северо-Кавказскому и Южному федеральным округам. С 2018 по 2024 года работал частным судебным экспертом (ИП Соколов Олег Вадимович ОГРНИП [319237500079713](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IBcertificate.jpeg)).
 
@@ -49,9 +46,6 @@
 ___
 ___
 # SOKOLOV OLEG
-
-### Email:
-- al.sapsan@mail.ru
 
 ## Brief Biography:
 Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at Secondary School No. 59 in the Adler District of Sochi. From August 1994 to March 1998, I attended the Saratov Law Institute. From March 1998 to February 2013, I worked in the forensic expert division in Sochi, progressing from an expert to the head of the department. Between 2004 and 2006, alongside I served as a lecturer in "Forensic Science" at the Black Sea Humanitarian Academy (Sochi). From February 2013 to October 10, 2018, I worked as a senior expert in the Department of Special Judicial Expertise for the North Caucasus and Southern Federal Districts. From 2018 to 2024, I worked as a private judicial expert.
