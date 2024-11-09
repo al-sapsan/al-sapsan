@@ -24,3 +24,6 @@ me = DroneSoftwareDeveloper()
 me.say_hi()
 ```
 #### Продробнее обо мне можно узнать [здесь](https://github.com/al-sapsan/al-sapsan/tree/master)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-sapsan&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-sapsan&layout=donut&show_icons=true&theme=github_dark)](https://github.com/al-sapsan/github-readme-stats)
