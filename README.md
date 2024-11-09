@@ -6,14 +6,14 @@ class DroneSoftwareDeveloper:
 
     def __init__(self):
         self.username = 'Sapsan'
-        self.name = "Oleg Sokolov"
-        self.role = "Software Developer for Autonomous Unmanned Flying Drones"
-        self.language_spoken = ["ru_RU", "en_US"]
+        self.name = 'Oleg Sokolov'
+        self.role = 'Software Developer for Autonomous Unmanned Flying Drones'
+        self.language_spoken = ['ru_RU', 'en_US']
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
             'devops': ['Linux', 'Docker', 'Podman'],
             'robotics': ['ROS', 'Gazebo', 'Arduino', 'RaspberryPi'],
-            'tools': ['Git', 'GitHub', 'Anaconda', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt'],
+            'tools': ['Git', 'GitHub', 'Anaconda', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt']
         }
 
     def say_hi(self):
