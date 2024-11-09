@@ -11,7 +11,8 @@ class DroneSoftwareDeveloper:
         self.language_spoken = ["ru_RU", "en_US"]
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
-            'devops': ['Linux', 'Docker', 'Podman', 'Amazon Q'],
+            'devops': ['Linux', 'Docker', 'Podman'],
+            'robotics': ['ROS', 'Gazebo', 'Arduino', 'RaspberryPi'],
             'tools': ['Git', 'GitHub', 'Anaconda', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt'],
         }
 
