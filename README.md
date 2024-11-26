@@ -8,7 +8,7 @@ class DroneSoftwareDeveloper:
     def __init__(self):
         self.username = 'Sapsan'
         self.name = 'Oleg Sokolov'
-        self.role = 'Software Developer for Autonomous Unmanned Flying Drones'
+        self.role = ['Software Developer', 'Technical writer']
         self.language_spoken = ['ru_RU', 'en_US']
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
