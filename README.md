@@ -11,10 +11,10 @@
 
 ## Профессиональные навыки и знания:
 - ### по специальности "Разработчик ПО для автономных беспилотных летательных аппаратов":
-    - **установка, настройка и конфигурирование операционных систем семейства Unix (Ubuntu, Alpine, Manjaro linux, MacOS) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module1);**
+    - **установка, настройка и конфигурирование операционных систем семейства Unix (Ubuntu, MacOS) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module1);**
     - **автоматизация процессов в ОС семейства Unix (Systemd units, bash) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module2);**
     - **работа с сетью и аппаратным обеспечением (SSH, bash, tmux, socat) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module3);**
-    - **виртуализация и контейнеризация (Docker, Podman) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module5);**
+    - **виртуализация и контейнеризация (Docker, Ubuntu, Alpine linux) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module5);**
     - **работа с системами имитационного моделирования (ROS, Gazebo);**
     - **создание навигационных систем БЛА с использованием технического зрения;**
     - **работа с системами измерения расстояния и формирования карты окружающей среды;**
