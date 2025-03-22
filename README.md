@@ -1,8 +1,5 @@
 # СОКОЛОВ ОЛЕГ  
 
-## Краткая автобиография: 
-Родился 26.03.1977 года в г. Сочи. С сентября 1984 по июнь 1994 года учился в средней школе № 59 Адлерского района г. Сочи. С августа 1994 по март 1998 год учился в Саратовском юридическом институте. С марта 1998 года по февраль 2013 работал в судебно-экспертном подразделении по городу Сочи, где прошел путь от эксперта до руководителя отдела. С 2004 по 2006 годы наряду с основной работой совмещал должность преподавателя «Криминалистики» в Черноморской гуманитарной академии (г. Сочи). С февраля 2013 по 10.10.2018 работал в должности старшего эксперта отдела специальных судебных экспертиз по Северо-Кавказскому и Южному федеральным округам. С 2018 по 2024 года работал частным судебным экспертом (ИП Соколов Олег Вадимович ОГРНИП [319237500079713](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IBcertificate.jpeg)).
-
 ## Образование: 
 - В июле 2015 года окончил ФГАОУ ВО «Российский университет дружбы народов», квалификация бакалавра по специальности «Прикладная информатика» ([диплом 107705 № 0002714 от 08.07.2015 года, регистрационный номер 2439/248ПИОЗ](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_diploma.jpg));
 - В июне 2011 года получил высшее образование по специальности «Организация и безопасность движения», квалификация «Инженер по организации и управлению на транспорте» ([диплом ВСГ № 5117339 от 30.06.2011 года, регистрационный номер 614](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_diploma.jpeg)); 
@@ -10,17 +7,18 @@
 - В марте 1998 года окончил Саратовский юридический институт, где получил высшее юридическое образование по специальности «Юриспруденция», специализация «юрист, эксперт-криминалист» ([диплом АВС № 0490344 от 28.07.1998 года, регистрационный номер 1950](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/forensic_diploma.jpg)). 
 
 ## Профессиональные навыки и знания:
-- ### по специальности "Разработчик ПО для автономных беспилотных летательных аппаратов":
+1. ### по специальности "Разработчик ПО для автономных беспилотных летательных аппаратов":
+    #### **1.1. Работа в операционных системах семейства Unix:**
     - **установка, настройка и конфигурирование операционных систем семейства Unix (Ubuntu, MacOS) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module1);**
     - **автоматизация процессов в ОС семейства Unix (Systemd units, bash) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module2);**
     - **работа с сетью и аппаратным обеспечением (SSH, bash, tmux, socat) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module3);**
     - **виртуализация и контейнеризация (Docker, Ubuntu, Alpine linux) [ссылка на репозиторий GitHub](https://github.com/al-sapsan/skill-linux/tree/module5);**
-    - **работа с системами имитационного моделирования (ROS, Gazebo);**
+    #### **1.2. Работа с системами имитационного моделирования (ROS, Gazebo):**
     - **создание навигационных систем БЛА с использованием технического зрения;**
     - **работа с системами измерения расстояния и формирования карты окружающей среды;**
     - **создание систем планирования маршрута;**
     - **создание систем управления групповым полетом**
-- ### по судебно-экспертным специализациям:
+2. ### по судебно-экспертным специализациям:
     - судебная экспертиза радиоэлектронных, электротехнических, электромеханических устройств;
     - судебная автотехническая экспертиза;
     - судебная экспертиза видео- и звукозаписей;
@@ -46,9 +44,6 @@
 ___
 ___
 # SOKOLOV OLEG
-
-## Brief Biography:
-Born on March 26, 1977, in Sochi. From September 1984 to June 1994, I studied at Secondary School No. 59 in the Adler District of Sochi. From August 1994 to March 1998, I attended the Saratov Law Institute. From March 1998 to February 2013, I worked in the forensic expert division in Sochi, progressing from an expert to the head of the department. Between 2004 and 2006, alongside I served as a lecturer in "Forensic Science" at the Black Sea Humanitarian Academy (Sochi). From February 2013 to October 10, 2018, I worked as a senior expert in the Department of Special Judicial Expertise for the North Caucasus and Southern Federal Districts. From 2018 to 2024, I worked as a private judicial expert.
 
 ## Education:
 - In July 2015, graduated from the Federal State Autonomous Educational Institution of Higher Education "People's Friendship University of Russia" earning a bachelor's degree in "Applied Information Technologies" (diploma 107705 No. 0002714 dated July 08, 2015, registration number 2439/248ПИОЗ);
