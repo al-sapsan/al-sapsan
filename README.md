@@ -14,7 +14,7 @@ class DroneSoftwareDeveloper:
             'code': ['Bash', 'Python', 'C++'],
             'devops': ['Ubuntu', 'FreeRTOS', 'Raspberry Pi OS', 'Docker'],
             'robotics': ['FreeCAD', 'ROS2', 'Gazebo', 'RViz', 'STM32CubeMX', 'RaspberryPi'],
-            'tools': ['Vim', 'Anaconda', 'VS Code', 'PlatformIO', 'STM32CubeMX', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt']
+            'tools': ['Vim', 'VS Code', 'PlatformIO', 'STM32CubeMX', 'Pandas', 'SymPy', 'NumPy', 'Qt']
         }
 
     def say_hi(self):
