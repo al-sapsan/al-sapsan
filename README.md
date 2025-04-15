@@ -12,9 +12,9 @@ class DroneSoftwareDeveloper:
         self.language_spoken = ['ru_RU', 'en_US']
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
-            'devops': ['Ubuntu', 'Alpine linux', 'Docker'],
-            'robotics': ['ROS', 'Gazebo', 'Arduino', 'RaspberryPi'],
-            'tools': ['Vim', 'Anaconda', 'VS Code', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt']
+            'devops': ['Ubuntu', 'FreeRTOS', 'Raspberry Pi OS', 'Docker'],
+            'robotics': ['FreeCAD', 'ROS2', 'Gazebo', 'RViz', 'STM32CubeMX', 'RaspberryPi'],
+            'tools': ['Vim', 'Anaconda', 'VS Code', 'PlatformIO', 'STM32CubeMX', 'Pandas', 'SymPy', 'NumPy', 'SciPy', 'Qt']
         }
 
     def say_hi(self):
