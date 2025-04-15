@@ -12,8 +12,8 @@ class DroneSoftwareDeveloper:
         self.language_spoken = ['ru_RU', 'en_US']
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
-            'devops': ['Ubuntu', 'FreeRTOS', 'Raspberry Pi OS', 'Docker'],
-            'robotics': ['FreeCAD', 'ROS2', 'Gazebo', 'RViz', 'STM32CubeMX', 'RaspberryPi'],
+            'systems': ['Ubuntu', 'Raspberry Pi OS', 'FreeRTOS'],
+            'robotics': ['FreeCAD', 'ROS2', 'Gazebo', 'RViz', 'Docker'],
             'tools': ['Vim', 'VS Code', 'PlatformIO', 'STM32CubeMX', 'Pandas', 'SymPy', 'NumPy', 'Qt']
         }
 
