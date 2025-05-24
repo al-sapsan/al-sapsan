@@ -9,7 +9,7 @@ class DroneSoftwareDeveloper:
         self.username = 'Sapsan'
         self.name = 'Oleg Sokolov'
         self.role = ['Software Developer', 'Technical writer']
-        self.language_spoken = ['ru_RU', 'en_US']
+        self.language_spoken = ['ru_RU', 'en_RU']
         self.skills = {
             'code': ['Bash', 'Python', 'C++'],
             'systems': ['Ubuntu', 'Raspberry Pi OS', 'FreeRTOS'],
