@@ -6,6 +6,13 @@
 - В апреле 2005 года мною получен допуск на самостоятельное производство компьютерных экспертиз ([свидетельство № 000595 от 19 апреля 2005 г., регистрационный номер № 665](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/comp_eximination.jpg));
 - В марте 1998 года окончил Саратовский юридический институт, где получил высшее юридическое образование по специальности «Юриспруденция», специализация «юрист, эксперт-криминалист» ([диплом АВС № 0490344 от 28.07.1998 года, регистрационный номер 1950](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/forensic_diploma.jpg)). 
 
+## Профессиональная переподготовка:
+  -  30.05.2025 проходил обучение на курсе "АА - Активный английский от Екатерины Зак Информационно-коммуникативные технологии плюс" по специальности «Специалист в области судебной компьютерно-технической экспертизы», специализация: «Судебная компьютерно-техническая экспертиза» ([диплом о профессиональной переподготовке № 642422169849 от 31.07.2024 года, регистрационный номер 2024/07/162](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_rt_diploma.jpeg));
+  -  с 01.12.2023 по 31.07.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Специалист в области судебной компьютерно-технической экспертизы», специализация: «Судебная компьютерно-техническая экспертиза» ([диплом о профессиональной переподготовке № 642422169849 от 31.07.2024 года, регистрационный номер 2024/07/162](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_rt_diploma.jpeg));
+  -  с 20.11.2023 по 28.06.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная экспертиза радиоэлектронных, электротехнических, электромеханических устройств» ([диплом о профессиональной переподготовке № 642422169677 от 28.06.2024 года, регистрационный номер 2024/06/153](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/radio-electronic_rt_diploma.jpeg));
+  -  с 13.11.2023 по 31.05.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная экспертиза видео- и звукозаписей» ([диплом о профессиональной переподготовке № 642421548594 от 31.05.2024 года, регистрационный номер 2024/05/135](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/audio-video_rt_diploma.jpeg));
+  -  с 09.10.2023 по 26.04.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная автотехническая экспертиза» ([диплом о профессиональной переподготовке № 642421548406 от 26.04.2024 года, регистрационный номер 2024/04/145](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_rt_diploma.jpeg)).
+  
 ## Профессиональные навыки и знания:
 1. ### по специальности "Разработчик ПО для автономных беспилотных летательных аппаратов":
     #### **1.1. Работа в операционных системах семейства Unix:**
@@ -23,24 +30,6 @@
     - судебная автотехническая экспертиза;
     - судебная экспертиза видео- и звукозаписей;
     - судебная компьютерно-техническая экспертиза.
-  
-## Профессиональная переподготовка:
-  -  ### в настоящее время прохожу обучение в онлайн-университете Skillbox по профессии "Разработчик ПО для автономных беспилотных летательных аппаратов";
-  -  с 01.12.2023 по 31.07.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Специалист в области судебной компьютерно-технической экспертизы», специализация: «Судебная компьютерно-техническая экспертиза» ([диплом о профессиональной переподготовке № 642422169849 от 31.07.2024 года, регистрационный номер 2024/07/162](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_rt_diploma.jpeg));
-  -  с 20.11.2023 по 28.06.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная экспертиза радиоэлектронных, электротехнических, электромеханических устройств» ([диплом о профессиональной переподготовке № 642422169677 от 28.06.2024 года, регистрационный номер 2024/06/153](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/radio-electronic_rt_diploma.jpeg));
-  -  с 13.11.2023 по 31.05.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная экспертиза видео- и звукозаписей» ([диплом о профессиональной переподготовке № 642421548594 от 31.05.2024 года, регистрационный номер 2024/05/135](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/audio-video_rt_diploma.jpeg));
-  -  с 09.10.2023 по 26.04.2024 проходил обучение в ООО "Информационно-коммуникативные технологии плюс" по специальности «Судебный эксперт», специализация: «Судебная автотехническая экспертиза» ([диплом о профессиональной переподготовке № 642421548406 от 26.04.2024 года, регистрационный номер 2024/04/145](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_rt_diploma.jpeg)).
-  
-## Стажировки и сертификации:
-  - успешно прошел сертификацию в соответствии с правилами системы добровольной сертификации деятельности экспертов и экспертных организаций в области судебной и несудебной экспертизы, подтвердив квалификацию судебного эксперта по специальностям:
-    - 4.1. «Исследование фотографических изображений и технических средств, используемых для их изготовления» ([сертификат № 2022/08-732 от 10.08.2022 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/foto_certificate.jpeg));
-    - 7.2. «Исследование звуковой среды, условий, средств, материалов и следов звукозаписей» ([сертификат № 2023/02-741 от 22.02.2023 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/audio_certificate.jpeg));
-    - 7.3. «Исследование видеоизображений, условий, средств, материалов и следов видеозаписей» ([сертификат № 2021/12-688 от 20.12.2021 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/auto_video_certificate.jpeg));
-    - 13.1. «Исследование обстоятельств дорожно-транспортного происшествия» ([сертификат № 2021/12-688 от 20.12.2021 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/auto_video_certificate.jpeg));
-    - 13.3. «Исследование следов на транспортных средствах и месте дорожно-транспортного происшествия (транспортно-трасологическая диагностика)» ([сертификат № 2021/12-688 от 20.12.2021 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/auto_video_certificate.jpeg));  
-    - 25.1. «Исследование радиоэлектронных, электротехнических, электромеханических устройств бытового назначения» ([сертификат № 2023/02-742 от 22.02.2023 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/radio-electronic_certificate.jpeg)).
-  - проходил обучение в ООО «ACE Консалтинг» по темам: «Жесткие диски: проблематика, анализ и обзор методик восстановления» (с 14.07.2014 по 16.07.2014) и «Передовые технологии восстановления данных с SSD и других накопителей на основе NAND Flash памяти (с 17.07.2014 по 19.07.2014);
-  - с 01.07.2013 по 19.07.2013 проходил стажировки по темам: «Проведение экспертно-криминалистических исследований массивов цифровой информации с использованием информационно-аналитической системы IBM i2» (свидетельство № 246/3-00006); «Особенности исследования цифровой информации» (с 24.04.2014 по 28.04.2014, свидетельство № 246/3-00123); «Адреса базовых станций и их определение: основные понятия, приемы и методы. Особенности изучения детализаций по абонентским номерам и базовым станциям» (с 29.04.2014 по 30.04.2014, свидетельство № 246/3-00148).
 ___
 ___
 # SOKOLOV OLEG
@@ -50,23 +39,6 @@ ___
 - In June 2011, received higher education in "Traffic Organization and Safety," qualifying as "Engineer for organization and management in transport" (diploma ВСГ No. 5117339 dated June 30, 2011, registration number 614);
 - In April 2005, obtained permission for independent computer expertise (certificate No. 000595 dated April 19, 2005, issued by the Saratov Law Institute, registration number No. 665);
 - In March 1998, studied at the Saratov Law Institute, earning a higher legal education with a specialization in "Jurisprudence," specializing as "lawyer, forensic expert" (diploma ABC No. 0490344 dated July 28, 1998, registration number 1950).
-
-## Professional Skills and Knowledge:
-- ### In Specialization "Software Developer for Autonomous Unmanned Flying Drones":
-    - Structure, operation principles, and application issues of AUFDs;
-    - Development of mathematical flight models for AUFDs;
-    - Creation of AUFD control systems;
-    - Working with simulation modeling systems (ROS, Gazebo);
-    - Measurement error filtering and sensor integration;
-    - Development of AUFD navigation systems using technical vision;
-    - Working with distance measurement systems and environmental mapping;
-    - Route planning system development;
-    - Group flight control system development.
-- **In Forensic Specializations:**
-    - Forensic automotive examination;
-    - Forensic examination of video and audio recordings;
-    - Forensic examination of radio-electronic, electrical, and electromechanical devices;
-    - Forensic computer-technical examination.
 
 ## Professional Retraining:
 - ### Currently undergoing training at Skillbox online university for the profession “Software Developer for Autonomous Unmanned Flying Drones”
