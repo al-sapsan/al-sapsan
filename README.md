@@ -11,10 +11,10 @@ class DroneSoftwareDeveloper:
         self.role = ['full-stack_robotics_engineer', 'technical_writer', 'forensic_expert']
         self.language_spoken = ['ru_RU', 'en_RU']
         self.skills = {
-            'code': ['Bash', 'Python', 'C++'],
-            'systems': ['Ubuntu', 'RaspberryPiOS', 'FreeRTOS'],
+            'code': ['Bash', 'Python', 'C/C++'],
+            'systems': ['MacOS', 'Ubuntu', 'FreeRTOS'],
             'robotics': ['FreeCAD', 'ROS2', 'Gazebo', 'RViz', 'Docker'],
-            'tools': ['Vim', 'VS_Code', 'PlatformIO', 'STM32CubeMX', 'Pandas', 'SymPy', 'NumPy', 'Qt6']
+            'tools': ['Neovim', 'VS_Code', 'PlatformIO', 'STM32CubeMX', 'NumPy', 'Pandas', 'Seaborn','Qt6']
         }
 
     def say_hi(self):
