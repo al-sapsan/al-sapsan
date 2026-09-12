@@ -6,7 +6,7 @@
 class DroneSoftwareDeveloper:
 
     def __init__(self):
-        self.username = 'Sapsan'
+        self.username = 'Al_Sapsan'
         self.name = 'Oleg_Sokolov'
         self.role = ['full-stack_robotics_engineer', 'technical_writer', 'forensic_expert']
         self.language_spoken = ['ru_RU', 'en_RU']
