@@ -3,7 +3,7 @@
 
 
 ```python
-class DroneSoftwareDeveloper:
+class AllInOneHuman:
 
     def __init__(self):
         self.username = 'Al_Sapsan'
@@ -20,7 +20,7 @@ class DroneSoftwareDeveloper:
     def say_hi(self):
         print("I am incredibly glad that you decided to visit me!")
 
-me = DroneSoftwareDeveloper()
+me = AllInOneHuman()
 me.say_hi()
 ```
 #### Продробнее обо мне можно узнать [здесь](https://github.com/al-sapsan/al-sapsan/tree/master)
