@@ -1,4 +1,5 @@
-# СОКОЛОВ ОЛЕГ  
+
+[English version](#professional-retraining)
 
 ## Профессиональная переподготовка:
   - **02.10.2025** окончил с отличием курс "Добрый, добрый ООП С/С++ с Сергеем Балакиревым" на образовательной платформе «Stepik» ([сертификат от 02.10.2025 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-cpp-oop.pdf));
@@ -20,6 +21,35 @@
 - В **июле 2015 года** окончил ФГАОУ ВО «Российский университет дружбы народов», квалификация бакалавра по специальности «Прикладная информатика» ([диплом 107705 № 0002714 от 08.07.2015 года, регистрационный номер 2439/248ПИОЗ](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_diploma.jpg));
 - В **июне 2011 года** получил высшее образование по специальности «Организация и безопасность движения», квалификация «Инженер по организации и управлению на транспорте» ([диплом ВСГ № 5117339 от 30.06.2011 года, регистрационный номер 614](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_diploma.jpeg)); 
 - В **апреле 2005 года** мною получен допуск на самостоятельное производство компьютерных экспертиз ([свидетельство № 000595 от 19 апреля 2005 г., регистрационный номер № 665](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/comp_eximination.jpg));
-- В **марте 1998 года** окончил Саратовский юридический институт, где получил высшее юридическое образование по специальности «Юриспруденция», специализация «юрист, эксперт-криминалист» ([диплом АВС № 0490344 от 28.07.1998 года, регистрационный номер 1950](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/forensic_diploma.jpg)). 
+- В **марте 1998 года** окончил Саратовский юридический институт, где получил высшее юридическое образование по специальности «Юриспруденция», специализация -
+«юрист, эксперт-криминалист» ([диплом АВС № 0490344 от 28.07.1998 года, регистрационный номер 1950](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/forensic_diploma.jpg)). 
+ 
+---
+---
 
+## Professional Retraining:
+
+- **October 2, 2025** — Graduated with honors from the course “Good, Good OOP C/C++ with Sergey Balakirev” on the Stepik educational platform ([certificate dated October 2, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-cpp-oop.pdf));
+- **August 16, 2025** — Graduated with honors from the course “Good, Good C/C++ with Sergey Balakirev” on the Stepik educational platform ([certificate dated August 16, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-cpp.pdf));
+- **August 11, 2025** — Graduated with honors from the course “AA — Active English by Ekaterina Zak for Advanced Learners (B1/B2)” on the Stepik educational platform ([certificate dated August 11, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-english(B2).pdf));
+- **July 17, 2025** — Graduated with honors from the course “Basics of Programming in C/C++, Part 2” on the Stepik educational platform ([certificate dated July 17, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-C2.pdf));
+- **June 22, 2025** — Graduated with honors from the course “AA — Active English by Ekaterina Zak for Intermediate Learners (A2)” on the Stepik educational platform ([certificate dated June 22, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-english(A2).pdf));
+- **June 9, 2025** — Graduated with honors from the course “Basics of Programming in C/C++” on the Stepik educational platform ([certificate dated June 9, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-С1.pdf));
+- **June 3, 2025** — Graduated with honors from the RobotX Robotics School course “Electronics: From Basics to BEAM Robots” on the Stepik educational platform ([certificate dated June 3, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-электроника.pdf));
+- **May 30, 2025** — Graduated with honors from the course “AA — Active English by Ekaterina Zak (for Beginners A0–A1)” on the Stepik educational platform ([certificate dated May 30, 2025](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-english(A0A1).pdf));
+- From **December 1, 2023**, to **July 31, 2024** — Completed training at LLC “Information and Communication Technologies Plus” in the specialty “Specialist in Forensic Computer and Technical Expertise”, specialization: “Forensic Computer and Technical Expertise” ([professional retraining diploma No. 642422169849 dated July 31, 2024, registration number 2024/07/162](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_rt_diploma.jpeg));
+- From **November 20, 2023**, to **June 28, 2024** — Completed training at LLC “Information and Communication Technologies Plus” in the specialty “Forensic Expert”, specialization: “Forensic Examination of Radio‑Electronic, Electrical, and Electromechanical Devices” ([professional retraining diploma No. 642422169677 dated June 28, 2024, registration number 2024/06/153](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/radio-electronic_rt_diploma.jpeg));
+- From **November 13, 2023**, to **May 31, 2024** — Completed training at LLC “Information and Communication Technologies Plus” in the specialty “Forensic Expert”, specialization: “Forensic Examination of Video and Audio Recordings” ([professional retraining diploma No. 642421548594 dated May 31, 2024, registration number 2024/05/135](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/audio-video_rt_diploma.jpeg));
+- From **October 9, 2023**, to **April 26, 2024** — Completed training at LLC “Information and Communication Technologies Plus” in the specialty “Forensic Expert”, specialization: “Forensic Automotive Expertise” ([professional retraining diploma No. 642421548406 dated April 26, 2024, registration number 2024/04/145](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_rt_diploma.jpeg)).
+
+---
+
+## Education:
+
+- In **July 2015**, graduated from the Peoples’ Friendship University of Russia (RUDN University) with a Bachelor’s degree in Applied Informatics ([diploma 107705 No. 0002714 dated July 8, 2015, registration number 2439/248ПИОЗ](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/IT_diploma.jpg));
+- In **June 2011**, obtained a higher education degree in “Organization and Traffic Safety”, qualification: “Engineer in Transport Organization and Management” ([diploma ВСГ No. 5117339 dated June 30, 2011, registration number 614](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/automotive_diploma.jpeg));
+- In **April 2005**, obtained authorization to independently conduct computer forensics examinations ([certificate No. 000595 dated April 19, 2005, registration number 665](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/comp_eximination.jpg));
+- In **March 1998**, graduated from Saratov Law Institute with a higher education degree in Jurisprudence, specialization: “Lawyer, Forensic Expert” ([diploma АВС No. 0490344 dated July 28, 1998, registration number 1950](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/forensic_diploma.jpg)).
+
+---
   
