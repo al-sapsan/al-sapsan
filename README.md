@@ -1,4 +1,5 @@
-![git-header-icon](https://github.com/user-attachments/assets/31b9eb68-6404-4720-a7fc-06cc6b1cf8b7)
+<img width="1664" height="563" alt="GitHub-main" src="https://github.com/user-attachments/assets/ed7b0b0e-1cec-4e36-b617-9482d64998e8" />
+
 ### A bit about me:
 
 
