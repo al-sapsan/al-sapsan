@@ -2,7 +2,7 @@
 [English version](#professional-retraining)
 
 ## Профессиональная переподготовка:
-  - **02.10.2025** окончил с отличием курс "Добрый, добрый ООП С/С++ с Сергеем Балакиревым" на образовательной платформе «Stepik» ([сертификат от 02.10.2025 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-cpp-oop.pdf));
+  - **02.10.2025** окончил с отличием курс "Добрый, добрый ООП С/С++ с Сергеем Балакиревым" на образовательной платформе «Stepik» ([сертификат от 02.10.2025 года](https://github.com/al-sapsan/al-sapsan/raw/master/Documents/stepik-cpp-oop.pdf));
   - **16.08.2025** окончил с отличием курс "Добрый, добрый С/С++ с Сергеем Балакиревым" на образовательной платформе «Stepik» ([сертификат от 16.08.2025 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-cpp.pdf));
   - **11.08.2025** окончил с отличием курс "АА - Активный Английский от Екатерины Зак для продвинутых (B1/B2)" на образовательной платформе «Stepik» ([сертификат от 11.08.2025 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-english(B2).pdf));
   - **17.07.2025** окончил с отличием курс "Основы программирования на С/С++ Часть 2" на образовательной платформе «Stepik» ([сертификат от 17.07.2025 года](https://github.com/al-sapsan/al-sapsan/blob/master/Documents/stepik-C2.pdf));
