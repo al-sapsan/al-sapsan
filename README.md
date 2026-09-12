@@ -1,9 +1,9 @@
 ![git-header-icon](https://github.com/user-attachments/assets/31b9eb68-6404-4720-a7fc-06cc6b1cf8b7)
-### Ещё немного обо мне:
+### A bit about me:
 
 
 ```python
-class AllInOneHuman:
+class AllinOneHuman:
 
     def __init__(self):
         self.username = 'Al_Sapsan'
@@ -20,8 +20,8 @@ class AllInOneHuman:
     def say_hi(self):
         print("I am incredibly glad that you decided to visit me!")
 
-me = AllInOneHuman()
+me = AllinOneHuman()
 me.say_hi()
 ```
-#### Продробнее обо мне можно узнать [здесь](https://github.com/al-sapsan/al-sapsan/tree/master)
+#### Find out more about me [here](https://github.com/al-sapsan/al-sapsan/tree/master)
 
